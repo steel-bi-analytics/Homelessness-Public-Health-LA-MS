@@ -37,7 +37,7 @@ Seven-page analytical report covering homelessness trends, demographics, housing
 
 - Homelessness patterns varied substantially by year and region across the six selected CoCs.
 - The 2024 Tableau view contains 2,264 overall homeless PIT observations across the selected regions.
-- Uninsured adult rates showed a moderate positive association with chronic homelessness across Louisiana and Mississippi (r ≈ +0.44).
+- Uninsured adult rates showed a moderate positive association with chronic homelessness across Louisiana and Mississippi (r ≈ +0.47).
 - Unsheltered homelessness remained a significant challenge across multiple regions.
 - Housing capacity generally increased over time, although availability and distribution differed considerably by region.
 - Public-health indicators showed meaningful differences between Louisiana and Mississippi and across the study period.
